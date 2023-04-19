@@ -27,7 +27,7 @@ public class ExpampleT2{
 
             public static void main(String args[]){
 
-                    Thread obj = new Thread("First");
+                    ThreadExample obj = new ThreadExample("First");
 
                     obj.t.start();
 
